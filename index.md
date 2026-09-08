@@ -1,3 +1,3 @@
 ---
-title: Welcome to my Exercise!
+title: Exercise!
 ---
